@@ -30,7 +30,8 @@
 
 /* Base Typography */
 body {
-    font-family: 'Outfit', sans-serif;
+    font-family: 'Cairo', sans-serif;
+    -webkit-font-smoothing: antialiased;
     background-color: var(--ia-bg-color);
     color: var(--ia-text-main);
 }
