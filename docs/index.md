@@ -7,80 +7,80 @@ hide:
 <div class="hero-container">
   <div class="hero-content">
     <div class="hero-title">InfinityAlgo Academy</div>
-    <div class="hero-subtitle">World-Class Algorithmic Trading Solutions • Institutional Grade AI • 24/7 Market Dominance</div>
+    <div class="hero-subtitle">Institutional-Grade Algorithmic Ecosystem</div>
     
     <div class="hero-actions">
       <a href="products/expert-advisors/" class="hero-btn primary-btn">
-        <span class="icon">🚀</span> Shop Premium EAs
+        <span class="icon">🚀</span> Shop EAs
       </a>
       <a href="products/indicators/" class="hero-btn secondary-btn">
         <span class="icon">📊</span> Indicators
       </a>
     </div>
 
-    <!-- Live Animated Statistics -->
+    <!-- Live Animated Statistics (Ultra Premium Redesign) -->
     <div class="hero-stats">
       <div class="stat-item">
-        <span class="stat-number" data-target="15200">0</span>
-        <span class="stat-label">Active Traders</span>
-      </div>
-      <div class="stat-item">
         <span class="stat-number" data-target="108">0</span>
-        <span class="stat-label">Premium Tools</span>
+        <span class="stat-label">Algorithmic Solutions</span>
       </div>
       <div class="stat-item">
-        <span class="stat-number" data-target="48">0</span>
-        <span class="stat-label">Hours Avg ROI</span>
+        <span class="stat-number" data-target="10">0</span>
+        <span class="stat-label">Years Data Backtested</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number" data-target="5200000">0</span>
+        <span class="stat-label">Lines of Code</span>
       </div>
       <div class="stat-item">
         <span class="stat-number" data-target="99">0</span>
-        <span class="stat-label">% Success Rate</span>
+        <span class="stat-label">% Platform Uptime</span>
       </div>
     </div>
   </div>
 </div>
 
-## 🏆 Why Choose InfinityAlgo?
+## 🏆 Engineered for Precision
 
-We don't just sell tools; we provide **institutional-grade edges**. Our algorithms are backtested on 10 years of tick data and live-tested on real ECN accounts.
+At InfinityAlgo, we don't rely on hype. We rely on mathematics. Our tools are forged from rigorous quantitative analysis and machine learning models, designed to exploit market inefficiencies with surgical precision.
 
 <div class="grid cards" markdown>
 
--   :material-robot-industrial:{ .lg .middle } **AI-Driven Logic**
+-   :material-chip:{ .lg .middle } **Neural Network Core**
     
-    Proprietary Neural Networks that adapt to changing market conditions instantly.
+    Our proprietary AI engine learns from historical patterns to predict future price movements with high probability.
 
--   :material-shield-check:{ .lg .middle } **Capital Protection**
+-   :material-lock-check:{ .lg .middle } **Risk-First Architecture**
     
-    Advanced risk management protocols (equity guard, news filter, slippage control).
+    Every algorithm is built with capital preservation as its primary directive. Hard stops, trailing, and equity guards are standard.
 
--   :material-headset:{ .lg .middle } **VIP Support**
+-   :material-server-network:{ .lg .middle } **Low-Latency Execution**
     
-    Direct access to our development team. We ensure your installation is perfect.
+    Optimized MQL4/5 code ensures your orders are filled at the best possible price, minimizing slippage.
 
 </div>
 
-## 🔥 Best Selling Products
+## 🔥 Featured Innovations
 
 <div class="grid cards" markdown>
 
 -   :material-gold:{ .lg .middle } **[Advanced Gold Trading](products/expert-advisors/advanced-gold-trading.md)**
     
-    The #1 Gold EA in the market. Consistent daily payouts with low drawdown.
+    A specialized volatility breakout system designed exclusively for XAUUSD.
     
-    [View Details](products/expert-advisors/advanced-gold-trading.md){ .md-button }
+    [Explore Algorithm](products/expert-advisors/advanced-gold-trading.md){ .md-button }
 
 -   :material-chart-line-variant:{ .lg .middle } **[InfinityRSI Divergence](products/expert-advisors/infinityrsi-divergence.md)**
     
-    Detect hidden reversals before they happen. Multi-timeframe scanner included.
+    Multi-timeframe divergence scanner that detects trend exhaustion points.
     
-    [View Details](products/expert-advisors/infinityrsi-divergence.md){ .md-button }
+    [Tech Specs](products/expert-advisors/infinityrsi-divergence.md){ .md-button }
 
--   :material-school:{ .lg .middle } **[Algorithmic Mastery Course](products/educational/all-in-one-course.md)**
+-   :material-school:{ .lg .middle } **[Quantitative Mastery](products/educational/all-in-one-course.md)**
     
-    Stop buying signals. Learn to build your own trading robots from A to Z.
+    Learn the science behind algorithmic trading. No fluff, just code and math.
     
-    [Start Learning](products/educational/all-in-one-course.md){ .md-button }
+    [Start Course](products/educational/all-in-one-course.md){ .md-button }
 
 </div>
 

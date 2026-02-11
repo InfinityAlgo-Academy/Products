@@ -370,3 +370,78 @@ pre {
   background: rgba(212, 175, 55, 0.1);
   transform: translateY(-3px);
 }
+
+/* --- ULTRA PREMIUM STATS REDESIGN --- */
+
+/* Remove old boxed look */
+.hero-stats {
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  backdrop-filter: none !important;
+  margin-top: 4rem;
+  border-top: 1px solid rgba(212, 175, 55, 0.2) !important;
+  padding-top: 2rem !important;
+  justify-content: space-between !important;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.stat-item {
+  position: relative;
+  padding: 0 1rem;
+}
+
+.stat-item::after {
+  content: '';
+  position: absolute;
+  right: -10px;
+  top: 20%;
+  height: 60%;
+  width: 1px;
+  background: rgba(255,255,255,0.1);
+}
+
+.stat-item:last-child::after {
+  display: none;
+}
+
+[dir="rtl"] .stat-item::after {
+  right: auto;
+  left: -10px;
+}
+
+.stat-number {
+  font-family: 'JetBrains Mono', monospace; /* Tech feel */
+  font-size: 3rem;
+  background: linear-gradient(180deg, #fff, #aaa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+.stat-label {
+  font-family: 'Cairo', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.8rem;
+  color: var(--ia-gold);
+  margin-top: 0.2rem;
+}
+
+/* Enhancing Product Pages Typography for "Deep Content" */
+.md-typeset h2 {
+  border-bottom: 2px solid var(--ia-gold);
+  padding-bottom: 0.5rem;
+  margin-top: 3rem;
+  color: var(--ia-gold-light);
+}
+
+.md-typeset blockquote {
+  border-left: 4px solid var(--ia-gold);
+  background: rgba(212, 175, 55, 0.05); /* Slight gold tint */
+  padding: 1rem;
+  font-style: italic;
+  color: #ccc;
+}

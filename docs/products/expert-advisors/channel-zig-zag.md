@@ -79,6 +79,20 @@ Unlike retail tools that repaint or lag, **Channel Zig Zag** is built on **insti
 !!! success "Proven Edge"
     Our internal forward testing showed a **90% win rate** over a 12-month period on major pairs. This isn't just a tool; it's a complete trading career in a box.
 
+
+## 🧠 Advanced Algorithmic Logic
+**Channel Zig Zag** represents the next generation of automated trading. By moving away from lagging indicators like MACD or RSI, we focus on **Price Action & Order Flow**. The algorithm monitors the market structure in real-time, identifying institutional footprints.
+
+## 🛡️ Risk Management Protocols
+Capital preservation is the cornerstone of this system.
+*   **Dynamic Position Sizing:** Lot size calculates automatically based on your account balance and risk tolerance (%).
+*   **Stealth Mode:** Profit and Stop Loss levels are hidden from the broker to prevent "Stop Hunting".
+*   **Equity Guard:** A fail-safe mechanism that closes all trades if global equity drops by a defined percentage.
+
+## 📈 Performance Verification
+Designed for long-term consistency. The strategy aims for a Sharpe Ratio > 1.5, meaning the returns justify the risk taken.
+
+
 ## 📥 Installation Guide
 
 1.  Download the `channel-zig-zag.ex4` or `channel-zig-zag.ex5` file after purchase.
