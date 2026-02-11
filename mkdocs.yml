@@ -13,7 +13,6 @@ copyright: Copyright &copy; 2026 InfinityAlgo Academy. All rights reserved.
 # Theme Configuration
 theme:
   name: material
-  custom_dir: overrides
   language: en
   palette:
     # Dark mode (Default)
