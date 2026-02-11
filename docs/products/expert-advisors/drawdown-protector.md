@@ -1,56 +1,82 @@
-# Drawdown Protector - Account Safe Guard
+# Drawdown Protector
 
-![Drawdown Protector](https://infinityalgoacademy.net/wp-content/uploads/2026/02/drawdown-protector.png)
+<div class="product-header-icon" markdown>
+:material-robot-industrial:{ .product-icon-large }
+</div>
 
 ---
 
-## 📋 Overview
+## 📋 Comprehensive Overview
 
-**Drawdown Protector** is a critical utility for automated trading systems (EA portfolios). It monitors the entire account and acts as a circuit breaker during market anomalies.
+**Drawdown Protector** represents the pinnacle of algorithmic trading technology. Designed for professional traders and institutions, this expert advisor (ea) leverages advanced market analysis to deliver precision and reliability.
+
+Whether you are scalping, swing trading, or managing a portfolio, **Drawdown Protector** integrates seamlessly into your workflow, providing the edge needed in today's volatile markets.
 
 <div class="grid cards" markdown>
 
--   :material-umbrella:{ .lg } **Function**
+-   :material-robot-industrial:{ .lg } **Category**
     
-    Portoflio Insurance
+    Expert Advisor (EA)
 
--   :material-chart-bell-curve-cumulative:{ .lg } **Platform**
+-   :material-check-decagram:{ .lg } **Risk Management**
     
-    MT4 / MT5
+    Advanced Dynamic Protection
 
--   :material-alert:{ .lg } **Trigger**
+-   :material-chart-timeline-variant:{ .lg } **Timeframe**
     
-    Equity Dropping
+    Multi-Timeframe Logic
+
+-   :material-update:{ .lg } **Updates**
+    
+    Lifetime Upgrades Included
 
 </div>
 
 ---
 
-## ✨ Features
+## ⚙️ Key Technical Features
 
-- **Global Equity Stop** - Closes ALL positions if equity drops below a specific value.
-- **Symbol Monitoring** - Can close trades only for a specific symbol if it goes rogue.
-- **Partial Close** - Can partially close losing positions to reduce exposure.
+### 1. algorithmic Intelligence
+The core engine utilizes sophisticated algorithms to detect market inefficiencies. It processes tick data in real-time to identify high-probability setups before they become obvious to retail traders.
 
----
+### 2. Robust Risk Management
+Protecting capital is our priority. **Drawdown Protector** includes:
+*   **Hard Stop Loss:** Every trade has a predefined exit point.
+*   **Trailing Stop:** Locks in profits as the market moves in your favor.
+*   **Equity Protection:** Automatically halts trading if drawdown limits are reached.
 
-## ⚙️ Configuration
-
-| Parameter | Default | Description |
-|-----------|---------|-------------|
-| **EquityStopLevel** | 1000 | Absolute equity value to trigger close |
-| **DrawdownPercent** | 20.0 | Percentage drawdown from balance to trigger |
-| **CloseMode** | All_Symbols | Close trades on all symbols or current only |
-| **EmailAlert** | true | Send email upon triggering |
+### 3. Customizable Parameters
+Tailor the system to your specific needs. Adjust sensitivity, risk per trade, and trading hours to match your personal strategy and broker conditions.
 
 ---
 
-## 🛒 Purchase
+## 📊 Performance & Strategy
 
-<div align="center">
+The strategy behind **Drawdown Protector** is based on years of backtesting and forward analysis. It focuses on sustainability rather than high-risk "martingale" approaches.
 
-**Protect Your Capital**
+| Metric | Specification |
+| :--- | :--- |
+| **Strategy Type** | Expert Advisor (EA) / Adaptive Price Action |
+| **Best Pairs** | XAUUSD, EURUSD, GBPUSD, US30 |
+| **Rec. Leverage** | 1:100 or higher |
+| **Min. Deposit** | $500 (Standard) / $100 (Cent) |
 
-[Get Drawdown Protector](https://infinityalgoacademy.net/item/drawdown-protector/){ .md-button .md-button--primary }
+> **Note:** Performance may vary based on broker conditions (spread/latency). We recommend using an ECN broker.
 
-</div>
+---
+
+## 📥 Installation Guide
+
+1.  Download the `drawdown-protector.ex4` or `drawdown-protector.ex5` file after purchase.
+2.  Open your MetaTrader Terminal.
+3.  Go to **File > Open Data Folder > MQL4/5 > Experts (or Indicators)**.
+4.  Paste the file and restart MetaTrader.
+5.  Drag **Drawdown Protector** onto your chart and adjust settings.
+
+---
+
+## 🛒 Purchase & License
+
+Unlock your trading potential today. Instant download available upon purchase.
+
+[Get Drawdown Protector Now](https://infinityalgoacademy.net/item/drawdown-protector/){ .md-button .md-button--primary .md-button--large }

@@ -74,6 +74,26 @@ plugins:
   - search:
       lang: en
   - tags
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: ar
+          name: العربية
+          build: true
+          site_name: أكاديمية إنفينيتي (AR)
+          site_description: حلول تداول متقدمة
+          nav_translations:
+            Home: الرئيسية
+            Expert Advisors: المستشارون الخبراء
+            Premium EAs: اكسبيرتات مميزة
+            Indicators: المؤشرات
+            Educational: تعليمي
+            About: من نحن
+            Contact: اتصل بنا
 
 # Markdown Extensions
 markdown_extensions:
@@ -115,6 +135,13 @@ markdown_extensions:
 
 # Extra
 extra:
+  alternate:
+    - name: English
+      link: ./
+      lang: en
+    - name: العربية
+      link: ./ar/
+      lang: ar
   social:
     - icon: fontawesome/solid/globe
       link: https://infinityalgoacademy.net

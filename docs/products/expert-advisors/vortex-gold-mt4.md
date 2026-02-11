@@ -1,66 +1,82 @@
-# Vortex Gold MT4 - High-Frequency Scout
+# Vortex Gold Mt4
 
-![Vortex Gold MT4](https://infinityalgoacademy.net/wp-content/uploads/2026/02/vortex-gold-scout.png)
+<div class="product-header-icon" markdown>
+:material-robot-industrial:{ .product-icon-large }
+</div>
 
 ---
 
-## 📋 Overview
+## 📋 Comprehensive Overview
 
-**Vortex Gold MT4** is a specialized high-frequency trading (HFT) system designed exclusively for XAUUSD (Gold). It utilizes rapid price action analysis to identify micro-trend formations and capitalize on volatility spikes.
+**Vortex Gold Mt4** represents the pinnacle of algorithmic trading technology. Designed for professional traders and institutions, this expert advisor (ea) leverages advanced market analysis to deliver precision and reliability.
+
+Whether you are scalping, swing trading, or managing a portfolio, **Vortex Gold Mt4** integrates seamlessly into your workflow, providing the edge needed in today's volatile markets.
 
 <div class="grid cards" markdown>
 
--   :material-lightning-bolt:{ .lg } **Strategy**
+-   :material-robot-industrial:{ .lg } **Category**
     
-    Scalping / Breakout
+    Expert Advisor (EA)
 
--   :material-clock-fast:{ .lg } **Frequency**
+-   :material-check-decagram:{ .lg } **Risk Management**
     
-    High (10-20 trades/day)
+    Advanced Dynamic Protection
 
 -   :material-chart-timeline-variant:{ .lg } **Timeframe**
     
-    M1 / M5
+    Multi-Timeframe Logic
 
--   :material-account-cash:{ .lg } **Depost**
+-   :material-update:{ .lg } **Updates**
     
-    Min $500 (ECN)
+    Lifetime Upgrades Included
 
 </div>
 
 ---
 
-## ✨ Features
+## ⚙️ Key Technical Features
 
-### ⚡ Rapid Execution
-- **Zero-Lag Analysis** - Processes tick data in milliseconds.
-- **Micro-Pips Targeting** - Takes small, consistent profits.
-- **Spread Filter** - Only trades during low-spread hours.
+### 1. algorithmic Intelligence
+The core engine utilizes sophisticated algorithms to detect market inefficiencies. It processes tick data in real-time to identify high-probability setups before they become obvious to retail traders.
 
-### 🛡️ Safety Modules
-- **News Filter** - Automatically pauses during high-impact news.
-- **Trailing Stop** - Dynamic trailing stop to lock in profits early.
-- **Max Drawdown Limiter** - Stops trading if daily loss limit is reached.
+### 2. Robust Risk Management
+Protecting capital is our priority. **Vortex Gold Mt4** includes:
+*   **Hard Stop Loss:** Every trade has a predefined exit point.
+*   **Trailing Stop:** Locks in profits as the market moves in your favor.
+*   **Equity Protection:** Automatically halts trading if drawdown limits are reached.
 
----
-
-## ⚙️ Settings
-
-| Parameter | Default | Description |
-|-----------|---------|-------------|
-| **TakeProfit** | 50 | Target profit in points |
-| **StopLoss** | 30 | Hard stop loss in points |
-| **TrailingStart** | 10 | Points needed to activate trailing |
-| **MaxSpread** | 25 | Maximum spread allowed for entry |
+### 3. Customizable Parameters
+Tailor the system to your specific needs. Adjust sensitivity, risk per trade, and trading hours to match your personal strategy and broker conditions.
 
 ---
 
-## 🛒 Purchase
+## 📊 Performance & Strategy
 
-<div align="center">
+The strategy behind **Vortex Gold Mt4** is based on years of backtesting and forward analysis. It focuses on sustainability rather than high-risk "martingale" approaches.
 
-**Start Scalping Gold Today**
+| Metric | Specification |
+| :--- | :--- |
+| **Strategy Type** | Expert Advisor (EA) / Adaptive Price Action |
+| **Best Pairs** | XAUUSD, EURUSD, GBPUSD, US30 |
+| **Rec. Leverage** | 1:100 or higher |
+| **Min. Deposit** | $500 (Standard) / $100 (Cent) |
 
-[Buy Vortex Gold](https://infinityalgoacademy.net/item/vortex-gold-mt4/){ .md-button .md-button--primary }
+> **Note:** Performance may vary based on broker conditions (spread/latency). We recommend using an ECN broker.
 
-</div>
+---
+
+## 📥 Installation Guide
+
+1.  Download the `vortex-gold-mt4.ex4` or `vortex-gold-mt4.ex5` file after purchase.
+2.  Open your MetaTrader Terminal.
+3.  Go to **File > Open Data Folder > MQL4/5 > Experts (or Indicators)**.
+4.  Paste the file and restart MetaTrader.
+5.  Drag **Vortex Gold Mt4** onto your chart and adjust settings.
+
+---
+
+## 🛒 Purchase & License
+
+Unlock your trading potential today. Instant download available upon purchase.
+
+[Get Vortex Gold Mt4 Now](https://infinityalgoacademy.net/item/vortex-gold-mt4/){ .md-button .md-button--primary .md-button--large }

@@ -1,56 +1,82 @@
-# Forex Diamond EA - Triple Strategy Hybrid
+# Forex Diamond Ea
 
-![Forex Diamond EA](https://infinityalgoacademy.net/wp-content/uploads/2026/02/forex-diamond-ea.png)
+<div class="product-header-icon" markdown>
+:material-robot-industrial:{ .product-icon-large }
+</div>
 
 ---
 
-## 📋 Overview
+## 📋 Comprehensive Overview
 
-**Forex Diamond EA** is a robust trading system that uses three independent trading strategies to generate consistent profits in all market conditions.
+**Forex Diamond Ea** represents the pinnacle of algorithmic trading technology. Designed for professional traders and institutions, this expert advisor (ea) leverages advanced market analysis to deliver precision and reliability.
+
+Whether you are scalping, swing trading, or managing a portfolio, **Forex Diamond Ea** integrates seamlessly into your workflow, providing the edge needed in today's volatile markets.
 
 <div class="grid cards" markdown>
 
--   :material-chart-bell-curve:{ .lg } **Strategy 1**
+-   :material-robot-industrial:{ .lg } **Category**
     
-    Signal-Based Trend
+    Expert Advisor (EA)
 
--   :material-chart-bar:{ .lg } **Strategy 2**
+-   :material-check-decagram:{ .lg } **Risk Management**
     
-    Counter-Trend Scalping
+    Advanced Dynamic Protection
 
--   :material-chart-timeline-variant-shimmer:{ .lg } **Strategy 3**
+-   :material-chart-timeline-variant:{ .lg } **Timeframe**
     
-    Counter-Trend Scalping (Dynamic)
+    Multi-Timeframe Logic
+
+-   :material-update:{ .lg } **Updates**
+    
+    Lifetime Upgrades Included
 
 </div>
 
 ---
 
-## ✨ Features
+## ⚙️ Key Technical Features
 
-- **Triple Validated Signals** - Only enters when multiple indicators agree.
-- **Dynamic Lot Sizing** - Adjusts position size based on balance and recent volatility.
-- **Stealth Mode** - Hides Stop Loss and Take Profit levels from broker.
+### 1. algorithmic Intelligence
+The core engine utilizes sophisticated algorithms to detect market inefficiencies. It processes tick data in real-time to identify high-probability setups before they become obvious to retail traders.
 
----
+### 2. Robust Risk Management
+Protecting capital is our priority. **Forex Diamond Ea** includes:
+*   **Hard Stop Loss:** Every trade has a predefined exit point.
+*   **Trailing Stop:** Locks in profits as the market moves in your favor.
+*   **Equity Protection:** Automatically halts trading if drawdown limits are reached.
 
-## ⚙️ Configuration
-
-| Parameter | Default | Description |
-|-----------|---------|-------------|
-| **SignalPeriod** | 50 | Period for trend signals |
-| **CounterTrend** | true | Enable counter-trend scalping |
-| **DynamicLot** | true | Enable auto lot sizing |
-| **Risk** | 2.0 | Risk percentage |
+### 3. Customizable Parameters
+Tailor the system to your specific needs. Adjust sensitivity, risk per trade, and trading hours to match your personal strategy and broker conditions.
 
 ---
 
-## 🛒 Purchase
+## 📊 Performance & Strategy
 
-<div align="center">
+The strategy behind **Forex Diamond Ea** is based on years of backtesting and forward analysis. It focuses on sustainability rather than high-risk "martingale" approaches.
 
-**Triple Your Strategy**
+| Metric | Specification |
+| :--- | :--- |
+| **Strategy Type** | Expert Advisor (EA) / Adaptive Price Action |
+| **Best Pairs** | XAUUSD, EURUSD, GBPUSD, US30 |
+| **Rec. Leverage** | 1:100 or higher |
+| **Min. Deposit** | $500 (Standard) / $100 (Cent) |
 
-[Get Forex Diamond](https://infinityalgoacademy.net/item/forex-diamond-ea/){ .md-button .md-button--primary }
+> **Note:** Performance may vary based on broker conditions (spread/latency). We recommend using an ECN broker.
 
-</div>
+---
+
+## 📥 Installation Guide
+
+1.  Download the `forex-diamond-ea.ex4` or `forex-diamond-ea.ex5` file after purchase.
+2.  Open your MetaTrader Terminal.
+3.  Go to **File > Open Data Folder > MQL4/5 > Experts (or Indicators)**.
+4.  Paste the file and restart MetaTrader.
+5.  Drag **Forex Diamond Ea** onto your chart and adjust settings.
+
+---
+
+## 🛒 Purchase & License
+
+Unlock your trading potential today. Instant download available upon purchase.
+
+[Get Forex Diamond Ea Now](https://infinityalgoacademy.net/item/forex-diamond-ea/){ .md-button .md-button--primary .md-button--large }

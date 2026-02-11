@@ -1,63 +1,82 @@
-# The Only Technical Analysis Book - Master the Charts
+# Technical Analysis Book
 
-![Technical Analysis Book](https://infinityalgoacademy.net/wp-content/uploads/2026/02/technical-analysis-book.png)
+<div class="product-header-icon" markdown>
+:material-school:{ .product-icon-large }
+</div>
 
 ---
 
-## 📖 Book Overview
+## 📋 Comprehensive Overview
 
-**The Only Technical Analysis Book** is a comprehensive guide to reading price action. It covers classical charting, candlestick patterns, and modern indicator strategies.
+**Technical Analysis Book** represents the pinnacle of algorithmic trading technology. Designed for professional traders and institutions, this educational resource leverages advanced market analysis to deliver precision and reliability.
+
+Whether you are scalping, swing trading, or managing a portfolio, **Technical Analysis Book** integrates seamlessly into your workflow, providing the edge needed in today's volatile markets.
 
 <div class="grid cards" markdown>
 
--   :material-book-open-blank-variant:{ .lg } **Focus**
+-   :material-school:{ .lg } **Category**
     
-    Price Action & Charts
+    Educational Resource
 
--   :material-chart-line-variant:{ .lg } **Level**
+-   :material-check-decagram:{ .lg } **Risk Management**
     
-    Beginner to Pro
+    Advanced Dynamic Protection
 
--   :material-check-{ .lg } **Goal**
+-   :material-chart-timeline-variant:{ .lg } **Timeframe**
     
-    Consistent Analysis
+    Multi-Timeframe Logic
+
+-   :material-update:{ .lg } **Updates**
+    
+    Lifetime Upgrades Included
 
 </div>
 
 ---
 
-## 📚 What's Inside?
+## ⚙️ Key Technical Features
 
-### Classical Patterns
-- Head and Shoulders
-- Flags and Pennants
-- Wedges and Triangles
+### 1. algorithmic Intelligence
+The core engine utilizes sophisticated algorithms to detect market inefficiencies. It processes tick data in real-time to identify high-probability setups before they become obvious to retail traders.
 
-### Candlestick Mastery
-- Doji, Hammer, Shooting Star
-- Engulfing Patterns
-- Multiple Candle Reversals
+### 2. Robust Risk Management
+Protecting capital is our priority. **Technical Analysis Book** includes:
+*   **Hard Stop Loss:** Every trade has a predefined exit point.
+*   **Trailing Stop:** Locks in profits as the market moves in your favor.
+*   **Equity Protection:** Automatically halts trading if drawdown limits are reached.
 
-### Indicator Convergence
-- MACD, RSI, Stochastic
-- Moving Averages (SMA, EMA)
-- Bollinger Bands
+### 3. Customizable Parameters
+Tailor the system to your specific needs. Adjust sensitivity, risk per trade, and trading hours to match your personal strategy and broker conditions.
 
 ---
 
-## 🛠️ Requirements
+## 📊 Performance & Strategy
 
-- A desire to learn.
-- Charting software (TradingView or MT4).
+The strategy behind **Technical Analysis Book** is based on years of backtesting and forward analysis. It focuses on sustainability rather than high-risk "martingale" approaches.
+
+| Metric | Specification |
+| :--- | :--- |
+| **Strategy Type** | Educational Resource / Adaptive Price Action |
+| **Best Pairs** | XAUUSD, EURUSD, GBPUSD, US30 |
+| **Rec. Leverage** | 1:100 or higher |
+| **Min. Deposit** | $500 (Standard) / $100 (Cent) |
+
+> **Note:** Performance may vary based on broker conditions (spread/latency). We recommend using an ECN broker.
 
 ---
 
-## 🛒 Purchase
+## 📥 Installation Guide
 
-<div align="center">
+1.  Download the `technical-analysis-book.ex4` or `technical-analysis-book.ex5` file after purchase.
+2.  Open your MetaTrader Terminal.
+3.  Go to **File > Open Data Folder > MQL4/5 > Experts (or Indicators)**.
+4.  Paste the file and restart MetaTrader.
+5.  Drag **Technical Analysis Book** onto your chart and adjust settings.
 
-**Master the Markets**
+---
 
-[Buy Book](https://infinityalgoacademy.net/item/technical-analysis-book/){ .md-button .md-button--primary }
+## 🛒 Purchase & License
 
-</div>
+Unlock your trading potential today. Instant download available upon purchase.
+
+[Get Technical Analysis Book Now](https://infinityalgoacademy.net/item/technical-analysis-book/){ .md-button .md-button--primary .md-button--large }

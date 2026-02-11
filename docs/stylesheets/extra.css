@@ -181,3 +181,55 @@ pre {
     color: var(--ia-gold-hover);
     font-weight: bold;
 }
+/* --- New Global Product Styling --- */
+
+/* Product Header Icon */
+.product-header-icon {
+  text-align: center;
+  color: var(--ia-gold);
+  margin: 2rem 0 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--ia-glass-border);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-icon-large svg {
+  width: 120px;
+  height: 120px;
+  fill: var(--ia-gold);
+  filter: drop-shadow(0 0 25px rgba(212, 175, 55, 0.3));
+  animation: icon-pulse 4s ease-in-out infinite;
+}
+
+@keyframes icon-pulse {
+  0% { transform: scale(1); filter: drop-shadow(0 0 20px rgba(212, 175, 55, 0.3)); }
+  50% { transform: scale(1.05); filter: drop-shadow(0 0 35px rgba(212, 175, 55, 0.5)); }
+  100% { transform: scale(1); filter: drop-shadow(0 0 20px rgba(212, 175, 55, 0.3)); }
+}
+
+/* RTL Support Enhancements */
+[dir="rtl"] .md-header__title {
+  font-family: 'Cairo', sans-serif;
+}
+
+[dir="rtl"] .md-nav__link {
+  font-family: 'Cairo', sans-serif;
+}
+
+[dir="rtl"] .md-typeset {
+  font-family: 'Cairo', sans-serif;
+  text-align: right;
+}
+
+[dir="rtl"] .md-typeset table:not([class]) {
+  direction: rtl;
+  text-align: right;
+}
+
+/* Fix for Material Icons in RTL if needed */
+[dir="rtl"] .md-typeset ul li {
+  margin-right: 1.5em; /* Flip margin for lists */
+  margin-left: 0;
+}

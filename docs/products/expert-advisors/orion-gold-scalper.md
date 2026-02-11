@@ -1,56 +1,82 @@
-# Orion Gold Scalper - Fast Scalping Robot
+# Orion Gold Scalper
 
-![Orion Gold Scalper](https://infinityalgoacademy.net/wp-content/uploads/2026/02/orion-gold-scalper.png)
+<div class="product-header-icon" markdown>
+:material-robot-industrial:{ .product-icon-large }
+</div>
 
 ---
 
-## 📋 Overview
+## 📋 Comprehensive Overview
 
-**Orion Gold Scalper** is a tick-based scalper designed for extreme precision on the M1 timeframe. It executes multiple trades per day to capture small, safe profits.
+**Orion Gold Scalper** represents the pinnacle of algorithmic trading technology. Designed for professional traders and institutions, this expert advisor (ea) leverages advanced market analysis to deliver precision and reliability.
+
+Whether you are scalping, swing trading, or managing a portfolio, **Orion Gold Scalper** integrates seamlessly into your workflow, providing the edge needed in today's volatile markets.
 
 <div class="grid cards" markdown>
 
--   :material-flash:{ .lg } **Type**
+-   :material-robot-industrial:{ .lg } **Category**
     
-    Tick Scalper
+    Expert Advisor (EA)
 
--   :material-timer-sand-complete:{ .lg } **Duration**
+-   :material-check-decagram:{ .lg } **Risk Management**
     
-    Minutes / Seconds
+    Advanced Dynamic Protection
 
--   :material-target-variant:{ .lg } **Target**
+-   :material-chart-timeline-variant:{ .lg } **Timeframe**
     
-    5-10 Pips (50-100 Points)
+    Multi-Timeframe Logic
+
+-   :material-update:{ .lg } **Updates**
+    
+    Lifetime Upgrades Included
 
 </div>
 
 ---
 
-## ✨ Features
+## ⚙️ Key Technical Features
 
-- **Tick Data Entry** - Enters trades based on tick volume and velocity.
-- **Spread Detection** - Waits for spreads to normalize before entering.
-- **Trailing Profit** - Aggressively trails profit to maximize gains.
+### 1. algorithmic Intelligence
+The core engine utilizes sophisticated algorithms to detect market inefficiencies. It processes tick data in real-time to identify high-probability setups before they become obvious to retail traders.
 
----
+### 2. Robust Risk Management
+Protecting capital is our priority. **Orion Gold Scalper** includes:
+*   **Hard Stop Loss:** Every trade has a predefined exit point.
+*   **Trailing Stop:** Locks in profits as the market moves in your favor.
+*   **Equity Protection:** Automatically halts trading if drawdown limits are reached.
 
-## ⚙️ Key Settings
-
-| Parameter | Default | Description |
-|-----------|---------|-------------|
-| **TakeProfitPoints** | 100 | Target in points |
-| **StopLossPoints** | 50 | Stop loss in points |
-| **TrailingDistance** | 20 | Distance for trailing stop |
-| **UseTimeFilter** | true | Enable time restriction (e.g., London/NY) |
+### 3. Customizable Parameters
+Tailor the system to your specific needs. Adjust sensitivity, risk per trade, and trading hours to match your personal strategy and broker conditions.
 
 ---
 
-## 🛒 Purchase
+## 📊 Performance & Strategy
 
-<div align="center">
+The strategy behind **Orion Gold Scalper** is based on years of backtesting and forward analysis. It focuses on sustainability rather than high-risk "martingale" approaches.
 
-**Scale Your Profits Fast**
+| Metric | Specification |
+| :--- | :--- |
+| **Strategy Type** | Expert Advisor (EA) / Adaptive Price Action |
+| **Best Pairs** | XAUUSD, EURUSD, GBPUSD, US30 |
+| **Rec. Leverage** | 1:100 or higher |
+| **Min. Deposit** | $500 (Standard) / $100 (Cent) |
 
-[Get Orion Scalper](https://infinityalgoacademy.net/item/orion-gold-scalper/){ .md-button .md-button--primary }
+> **Note:** Performance may vary based on broker conditions (spread/latency). We recommend using an ECN broker.
 
-</div>
+---
+
+## 📥 Installation Guide
+
+1.  Download the `orion-gold-scalper.ex4` or `orion-gold-scalper.ex5` file after purchase.
+2.  Open your MetaTrader Terminal.
+3.  Go to **File > Open Data Folder > MQL4/5 > Experts (or Indicators)**.
+4.  Paste the file and restart MetaTrader.
+5.  Drag **Orion Gold Scalper** onto your chart and adjust settings.
+
+---
+
+## 🛒 Purchase & License
+
+Unlock your trading potential today. Instant download available upon purchase.
+
+[Get Orion Gold Scalper Now](https://infinityalgoacademy.net/item/orion-gold-scalper/){ .md-button .md-button--primary .md-button--large }

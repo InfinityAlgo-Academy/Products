@@ -1,56 +1,82 @@
-# MFXT Gold AI - Machine Learning Gold Trader
+# Mfxt Gold Ai
 
-![MFXT Gold AI](https://infinityalgoacademy.net/wp-content/uploads/2026/02/mfxt-gold-ai.png)
+<div class="product-header-icon" markdown>
+:material-robot-industrial:{ .product-icon-large }
+</div>
 
 ---
 
-## 📋 Overview
+## 📋 Comprehensive Overview
 
-**MFXT Gold AI** leverages advanced machine learning models trained on 10 years of gold market data. It excels at filtering false breakouts and identifying true trend continuations.
+**Mfxt Gold Ai** represents the pinnacle of algorithmic trading technology. Designed for professional traders and institutions, this expert advisor (ea) leverages advanced market analysis to deliver precision and reliability.
+
+Whether you are scalping, swing trading, or managing a portfolio, **Mfxt Gold Ai** integrates seamlessly into your workflow, providing the edge needed in today's volatile markets.
 
 <div class="grid cards" markdown>
 
--   :material-head-snowflake:{ .lg } **Technology**
+-   :material-robot-industrial:{ .lg } **Category**
     
-    RNN & LSTM Neural Networks
+    Expert Advisor (EA)
 
--   :material-chart-bell-curve-cumulative:{ .lg } **Focus**
+-   :material-check-decagram:{ .lg } **Risk Management**
     
-    Price Action Patterns
+    Advanced Dynamic Protection
 
--   :material-currency-usd-circle:{ .lg } **Payout**
+-   :material-chart-timeline-variant:{ .lg } **Timeframe**
     
-    Consistend Daily Gains
+    Multi-Timeframe Logic
+
+-   :material-update:{ .lg } **Updates**
+    
+    Lifetime Upgrades Included
 
 </div>
 
 ---
 
-## ✨ AI Features
+## ⚙️ Key Technical Features
 
-- **Pattern Prediction** - Foresees volatility spikes before they happen.
-- **Adaptive Stop Loss** - Dynamically adjusts SL based on ATR and AI confidence.
-- **Sentiment Analysis** - Uses volume and price velocity to gauge market sentiment.
+### 1. algorithmic Intelligence
+The core engine utilizes sophisticated algorithms to detect market inefficiencies. It processes tick data in real-time to identify high-probability setups before they become obvious to retail traders.
 
----
+### 2. Robust Risk Management
+Protecting capital is our priority. **Mfxt Gold Ai** includes:
+*   **Hard Stop Loss:** Every trade has a predefined exit point.
+*   **Trailing Stop:** Locks in profits as the market moves in your favor.
+*   **Equity Protection:** Automatically halts trading if drawdown limits are reached.
 
-## ⚙️ Configuration
-
-| Parameter | Default | Description |
-|-----------|---------|-------------|
-| **AI_Confidence** | 70 | Minimum confidence % to trigger trade |
-| **RecoveryMode** | false | Enable recovery for losing trades |
-| **MaxTrades** | 3 | Max concurrent trades |
-| **RiskPerTrade** | 1.5 | Risk percentage per trade |
+### 3. Customizable Parameters
+Tailor the system to your specific needs. Adjust sensitivity, risk per trade, and trading hours to match your personal strategy and broker conditions.
 
 ---
 
-## 🛒 Purchase
+## 📊 Performance & Strategy
 
-<div align="center">
+The strategy behind **Mfxt Gold Ai** is based on years of backtesting and forward analysis. It focuses on sustainability rather than high-risk "martingale" approaches.
 
-**Trade Smarter with AI**
+| Metric | Specification |
+| :--- | :--- |
+| **Strategy Type** | Expert Advisor (EA) / Adaptive Price Action |
+| **Best Pairs** | XAUUSD, EURUSD, GBPUSD, US30 |
+| **Rec. Leverage** | 1:100 or higher |
+| **Min. Deposit** | $500 (Standard) / $100 (Cent) |
 
-[Get MFXT Gold AI](https://infinityalgoacademy.net/item/mfxt-gold-ai/){ .md-button .md-button--primary }
+> **Note:** Performance may vary based on broker conditions (spread/latency). We recommend using an ECN broker.
 
-</div>
+---
+
+## 📥 Installation Guide
+
+1.  Download the `mfxt-gold-ai.ex4` or `mfxt-gold-ai.ex5` file after purchase.
+2.  Open your MetaTrader Terminal.
+3.  Go to **File > Open Data Folder > MQL4/5 > Experts (or Indicators)**.
+4.  Paste the file and restart MetaTrader.
+5.  Drag **Mfxt Gold Ai** onto your chart and adjust settings.
+
+---
+
+## 🛒 Purchase & License
+
+Unlock your trading potential today. Instant download available upon purchase.
+
+[Get Mfxt Gold Ai Now](https://infinityalgoacademy.net/item/mfxt-gold-ai/){ .md-button .md-button--primary .md-button--large }

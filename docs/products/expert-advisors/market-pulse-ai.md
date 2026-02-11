@@ -1,56 +1,82 @@
-# Market Pulse AI - Real-Time Correlation Analyzer
+# Market Pulse Ai
 
-![Market Pulse AI](https://infinityalgoacademy.net/wp-content/uploads/2026/02/market-pulse-ai.png)
+<div class="product-header-icon" markdown>
+:material-robot-industrial:{ .product-icon-large }
+</div>
 
 ---
 
-## 📋 Overview
+## 📋 Comprehensive Overview
 
-**Market Pulse AI** is a state-of-the-art multi-currency EA that scans 28 currency pairs simultaneously. It uses advanced correlation matrices to find the most profitable opportunities with the lowest risk exposure.
+**Market Pulse Ai** represents the pinnacle of algorithmic trading technology. Designed for professional traders and institutions, this expert advisor (ea) leverages advanced market analysis to deliver precision and reliability.
+
+Whether you are scalping, swing trading, or managing a portfolio, **Market Pulse Ai** integrates seamlessly into your workflow, providing the edge needed in today's volatile markets.
 
 <div class="grid cards" markdown>
 
--   :material-chart-multiline:{ .lg } **Analysis**
+-   :material-robot-industrial:{ .lg } **Category**
     
-    Currency Strength & Correlation
+    Expert Advisor (EA)
 
--   :material-globe-model:{ .lg } **Coverage**
+-   :material-check-decagram:{ .lg } **Risk Management**
     
-    28 Major & Cross Pairs
+    Advanced Dynamic Protection
 
--   :material-robot-happy:{ .lg } **Risk**
+-   :material-chart-timeline-variant:{ .lg } **Timeframe**
     
-    Diversified Portfolio
+    Multi-Timeframe Logic
+
+-   :material-update:{ .lg } **Updates**
+    
+    Lifetime Upgrades Included
 
 </div>
 
 ---
 
-## ✨ Why Choosing Market Pulse AI?
+## ⚙️ Key Technical Features
 
-- **Diversification** - Never rely on a single pair. Spreads risk across the entire market.
-- **Smart Entry** - Only enters when one currency is significantly stronger than another (e.g., strong GBP vs weak JPY).
-- **Basket Profit** - Closes all open trades when total profit target is reached.
+### 1. algorithmic Intelligence
+The core engine utilizes sophisticated algorithms to detect market inefficiencies. It processes tick data in real-time to identify high-probability setups before they become obvious to retail traders.
 
----
+### 2. Robust Risk Management
+Protecting capital is our priority. **Market Pulse Ai** includes:
+*   **Hard Stop Loss:** Every trade has a predefined exit point.
+*   **Trailing Stop:** Locks in profits as the market moves in your favor.
+*   **Equity Protection:** Automatically halts trading if drawdown limits are reached.
 
-## ⚙️ Key Inputs
-
-| Parameter | Default | Description |
-|-----------|---------|-------------|
-| **TradePairs** | 28 | Number of pairs to monitor |
-| **MaxSpread** | 3.0 | Max spread allowed (in pips) |
-| **BasketTP** | 2.0 | Total account profit target (%) |
-| **BasketSL** | 5.0 | Total account stop loss (%) |
+### 3. Customizable Parameters
+Tailor the system to your specific needs. Adjust sensitivity, risk per trade, and trading hours to match your personal strategy and broker conditions.
 
 ---
 
-## 🛒 Purchase
+## 📊 Performance & Strategy
 
-<div align="center">
+The strategy behind **Market Pulse Ai** is based on years of backtesting and forward analysis. It focuses on sustainability rather than high-risk "martingale" approaches.
 
-**Pulse of the Market**
+| Metric | Specification |
+| :--- | :--- |
+| **Strategy Type** | Expert Advisor (EA) / Adaptive Price Action |
+| **Best Pairs** | XAUUSD, EURUSD, GBPUSD, US30 |
+| **Rec. Leverage** | 1:100 or higher |
+| **Min. Deposit** | $500 (Standard) / $100 (Cent) |
 
-[Get Market Pulse AI](https://infinityalgoacademy.net/item/market-pulse-ai/){ .md-button .md-button--primary }
+> **Note:** Performance may vary based on broker conditions (spread/latency). We recommend using an ECN broker.
 
-</div>
+---
+
+## 📥 Installation Guide
+
+1.  Download the `market-pulse-ai.ex4` or `market-pulse-ai.ex5` file after purchase.
+2.  Open your MetaTrader Terminal.
+3.  Go to **File > Open Data Folder > MQL4/5 > Experts (or Indicators)**.
+4.  Paste the file and restart MetaTrader.
+5.  Drag **Market Pulse Ai** onto your chart and adjust settings.
+
+---
+
+## 🛒 Purchase & License
+
+Unlock your trading potential today. Instant download available upon purchase.
+
+[Get Market Pulse Ai Now](https://infinityalgoacademy.net/item/market-pulse-ai/){ .md-button .md-button--primary .md-button--large }

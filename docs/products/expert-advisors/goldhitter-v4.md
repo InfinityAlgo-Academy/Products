@@ -1,56 +1,82 @@
-# GoldHitter v4.0 - Breakthrough Trend Robot
+# Goldhitter V4
 
-![GoldHitter v4.0](https://infinityalgoacademy.net/wp-content/uploads/2026/02/goldhitter-v4.png)
+<div class="product-header-icon" markdown>
+:material-robot-industrial:{ .product-icon-large }
+</div>
 
 ---
 
-## 📋 Overview
+## 📋 Comprehensive Overview
 
-**GoldHitter v4.0** is a sophisticated trend-following EA that identifies key support and resistance breakouts on the Gold chart. It waits for strong momentum confirmation before entering the market.
+**Goldhitter V4** represents the pinnacle of algorithmic trading technology. Designed for professional traders and institutions, this expert advisor (ea) leverages advanced market analysis to deliver precision and reliability.
+
+Whether you are scalping, swing trading, or managing a portfolio, **Goldhitter V4** integrates seamlessly into your workflow, providing the edge needed in today's volatile markets.
 
 <div class="grid cards" markdown>
 
--   :material-arrow-up-bold-box-outline:{ .lg } **Strategy**
+-   :material-robot-industrial:{ .lg } **Category**
     
-    Price Action Breakout
+    Expert Advisor (EA)
 
--   :material-clock-outline:{ .lg } **Timeframe**
+-   :material-check-decagram:{ .lg } **Risk Management**
     
-    H1 / H4
+    Advanced Dynamic Protection
 
--   :material-bullseye-arrow:{ .lg } **Risk/Reward**
+-   :material-chart-timeline-variant:{ .lg } **Timeframe**
     
-    High R:R Ratio (1:3+)
+    Multi-Timeframe Logic
+
+-   :material-update:{ .lg } **Updates**
+    
+    Lifetime Upgrades Included
 
 </div>
 
 ---
 
-## ✨ Features
+## ⚙️ Key Technical Features
 
-- **Breakout Validation** - Uses volume and momentum to confirm valid breakouts.
-- **Smart SL Positioning** - Places Stop Loss dynamically behind recent swing points.
-- **Trend Power** - Adds to winning positions (Pyramiding) to maximize profit.
+### 1. algorithmic Intelligence
+The core engine utilizes sophisticated algorithms to detect market inefficiencies. It processes tick data in real-time to identify high-probability setups before they become obvious to retail traders.
 
----
+### 2. Robust Risk Management
+Protecting capital is our priority. **Goldhitter V4** includes:
+*   **Hard Stop Loss:** Every trade has a predefined exit point.
+*   **Trailing Stop:** Locks in profits as the market moves in your favor.
+*   **Equity Protection:** Automatically halts trading if drawdown limits are reached.
 
-## ⚙️ Configuration
-
-| Parameter | Default | Description |
-|-----------|---------|-------------|
-| **BreakoutChannels** | 20 | Number of bars for channel calculation |
-| **MomentumThreshold** | 50 | Minimum momentum to confirm entry |
-| **PyramidOrders** | 0 | Max additional orders in winning trend |
-| **TrailingStop** | 30 | Trailing stop size in pips |
+### 3. Customizable Parameters
+Tailor the system to your specific needs. Adjust sensitivity, risk per trade, and trading hours to match your personal strategy and broker conditions.
 
 ---
 
-## 🛒 Purchase
+## 📊 Performance & Strategy
 
-<div align="center">
+The strategy behind **Goldhitter V4** is based on years of backtesting and forward analysis. It focuses on sustainability rather than high-risk "martingale" approaches.
 
-**Master the Gold Trend**
+| Metric | Specification |
+| :--- | :--- |
+| **Strategy Type** | Expert Advisor (EA) / Adaptive Price Action |
+| **Best Pairs** | XAUUSD, EURUSD, GBPUSD, US30 |
+| **Rec. Leverage** | 1:100 or higher |
+| **Min. Deposit** | $500 (Standard) / $100 (Cent) |
 
-[Get GoldHitter v4](https://infinityalgoacademy.net/item/goldhitter-v4/){ .md-button .md-button--primary }
+> **Note:** Performance may vary based on broker conditions (spread/latency). We recommend using an ECN broker.
 
-</div>
+---
+
+## 📥 Installation Guide
+
+1.  Download the `goldhitter-v4.ex4` or `goldhitter-v4.ex5` file after purchase.
+2.  Open your MetaTrader Terminal.
+3.  Go to **File > Open Data Folder > MQL4/5 > Experts (or Indicators)**.
+4.  Paste the file and restart MetaTrader.
+5.  Drag **Goldhitter V4** onto your chart and adjust settings.
+
+---
+
+## 🛒 Purchase & License
+
+Unlock your trading potential today. Instant download available upon purchase.
+
+[Get Goldhitter V4 Now](https://infinityalgoacademy.net/item/goldhitter-v4/){ .md-button .md-button--primary .md-button--large }
