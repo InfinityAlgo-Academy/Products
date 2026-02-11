@@ -1,0 +1,35 @@
+# Gann Model Forecast
+
+![Gann Model Forecast](https://infinityalgoacademy.net/wp-content/uploads/2026/02/placeholder.png)
+
+---
+
+## 📋 Overview
+
+**Gann Model Forecast** is a premium trading tool available at InfinityAlgo Academy.
+
+<div class="grid cards" markdown>
+
+-   :material-chart-bell-curve-cumulative:{ .lg } **Category**
+    
+    Expert Advisors
+
+-   :material-check-decagram:{ .lg } **Status**
+    
+    Available
+
+</div>
+
+---
+
+## ✨ Key Features
+
+- **Professional Grade** - Built for serious traders.
+- **Verified Results** - Tested extensively.
+- **Easy Setup** - Plug and play.
+
+---
+
+## 🛒 Get It Now
+
+[Purchase Gann Model Forecast](https://infinityalgoacademy.net/item/gann-model-forecast/){ .md-button .md-button--primary }
