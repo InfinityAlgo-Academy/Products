@@ -1,0 +1,180 @@
+/* InfinityAlgo Academy - Premium Theme CSS */
+
+:root {
+    --ia-gold: #d4af37;
+    --ia-gold-light: #f3e5ab;
+    --ia-gold-dark: #aa8c2c;
+    --ia-dark-bg: #0f1115;
+    --ia-dark-card: #181b21;
+    --ia-glass: rgba(255, 255, 255, 0.05);
+    --ia-glass-border: rgba(255, 255, 255, 0.1);
+}
+
+/* Base Typography */
+body {
+    font-family: 'Outfit', sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+code,
+kbd,
+pre {
+    font-family: 'JetBrains Mono', monospace;
+}
+
+/* Glassmorphism Cards */
+.md-typeset .grid>ul>li,
+.md-typeset .grid.cards>ul>li {
+    border: 1px solid var(--ia-glass-border);
+    background: var(--ia-dark-card);
+    border-radius: 12px;
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+[data-md-color-scheme="slate"] .md-typeset .grid>ul>li:hover,
+[data-md-color-scheme="slate"] .md-typeset .grid.cards>ul>li:hover {
+    border-color: var(--ia-gold);
+    background: linear-gradient(145deg, #1e2229, #181b21);
+    transform: translateY(-5px);
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
+}
+
+/* Hero Section (Custom Animation) */
+.hero-container {
+    text-align: center;
+    padding: 4rem 0 2rem;
+    background: radial-gradient(circle at center, rgba(212, 175, 55, 0.1) 0%, rgba(15, 17, 21, 0) 70%);
+    animation: fadeIn 1.2s ease-out;
+}
+
+.hero-title {
+    font-weight: 700;
+    font-size: 3rem;
+    background: linear-gradient(to right, #ffffff, #d4af37, #ffffff);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    background-size: 200% auto;
+    animation: shine 5s linear infinite;
+    letter-spacing: -0.02em;
+    margin-bottom: 1rem;
+}
+
+.hero-subtitle {
+    font-size: 1.25rem;
+    color: var(--md-default-fg-color--light);
+    max-width: 600px;
+    margin: 0 auto 2rem;
+    line-height: 1.6;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes shine {
+    to {
+        background-position: 200% center;
+    }
+}
+
+/* Buttons */
+.md-button {
+    border-radius: 50px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+    padding: 0.6em 1.4em;
+}
+
+.md-button--primary {
+    background: linear-gradient(135deg, var(--ia-gold-dark) 0%, var(--ia-gold) 100%) !important;
+    border: none !important;
+    color: #000 !important;
+    box-shadow: 0 4px 15px rgba(212, 175, 55, 0.3);
+}
+
+.md-button--primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(212, 175, 55, 0.5);
+}
+
+/* Custom Admonitions */
+.md-typeset .admonition,
+.md-typeset details {
+    border-radius: 8px;
+    border-left-width: 4px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Navigation Tabs */
+.md-tabs {
+    background-color: var(--ia-dark-bg);
+    border-bottom: 1px solid var(--ia-glass-border);
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+    color: var(--ia-gold);
+}
+
+/* Header */
+.md-header {
+    background-color: rgba(15, 17, 21, 0.95);
+    backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--ia-glass-border);
+}
+
+/* Footer */
+.md-footer {
+    background-color: #0a0c0f;
+}
+
+/* Table styling */
+.md-typeset table:not([class]) {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.md-typeset table:not([class]) th {
+    background-color: rgba(212, 175, 55, 0.1);
+    color: var(--ia-gold);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--ia-dark-bg);
+}
+
+::-webkit-scrollbar-thumb {
+    background: #333;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--ia-gold);
+}
+
+/* Responsive tweaks */
+@media screen and (max-width: 768px) {
+    .hero-title {
+        font-size: 2rem;
+    }
+}
