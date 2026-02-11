@@ -15,8 +15,6 @@ theme:
   name: material
   custom_dir: overrides
   language: en
-  logo: assets/logo.png
-  favicon: assets/favicon.png
   palette:
     # Dark mode (Default)
     - scheme: slate
@@ -74,8 +72,6 @@ plugins:
   - search:
       lang: en
   - tags
-  - minify:
-      minify_html: true
 
 # Markdown Extensions
 markdown_extensions:
