@@ -1,6 +1,10 @@
 # Trend Hunter - Ride the Wave
 
-![Trend Hunter](https://infinityalgoacademy.net/wp-content/uploads/2026/02/trend-hunter.png)
+<div class="product-header-icon" markdown>
+:material-chart-bell-curve-cumulative:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

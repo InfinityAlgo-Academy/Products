@@ -1,13 +1,19 @@
----
-search:
-  lang: ar
----
-
 # Technical Analysis Book
 
 <div class="product-header-icon" markdown>
 :material-school:{ .product-icon-large }
 </div>
+
+---
+
+---
+search:
+  lang: ar
+---
+
+
+
+
 
 ---
 

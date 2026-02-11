@@ -1,6 +1,10 @@
 # MQL5 Programming for Traders - From Zero to Hero
 
-![MQL5 Programming](https://infinityalgoacademy.net/wp-content/uploads/2026/02/mql5-programming-book.png)
+<div class="product-header-icon" markdown>
+:material-school:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

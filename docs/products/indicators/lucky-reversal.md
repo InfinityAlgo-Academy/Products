@@ -1,6 +1,10 @@
 # Lucky Reversal - Pivot Point Signals
 
-![Lucky Reversal](https://infinityalgoacademy.net/wp-content/uploads/2026/02/lucky-reversal.png)
+<div class="product-header-icon" markdown>
+:material-chart-bell-curve-cumulative:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

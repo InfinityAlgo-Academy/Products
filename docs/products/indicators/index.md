@@ -1,5 +1,11 @@
 # 📊 Professional Trading Indicators
 
+<div class="product-header-icon" markdown>
+:material-chart-bell-curve-cumulative:{ .product-icon-large }
+</div>
+
+---
+
 Elevate your trading analysis with our professional-grade indicators for MetaTrader 4, MetaTrader 5, and TradingView.
 
 ---

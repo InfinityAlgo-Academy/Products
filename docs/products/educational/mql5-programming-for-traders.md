@@ -6,6 +6,8 @@
 
 ---
 
+---
+
 ## 📋 Comprehensive Overview
 
 **Mql5 Programming For Traders** represents the pinnacle of algorithmic trading technology. Designed for professional traders and institutions, this educational resource leverages advanced market analysis to deliver precision and reliability.

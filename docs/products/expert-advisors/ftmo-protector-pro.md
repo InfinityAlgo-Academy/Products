@@ -1,6 +1,10 @@
 # FTMO Protector Pro - Pass Prop Firm Challenges
 
-![FTMO Protector Pro](https://infinityalgoacademy.net/wp-content/uploads/2026/02/ftmo-protector-pro.png)
+<div class="product-header-icon" markdown>
+:material-robot-industrial:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

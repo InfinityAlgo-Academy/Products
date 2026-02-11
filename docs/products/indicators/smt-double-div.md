@@ -1,6 +1,10 @@
 # SMT Double Div - Smart Money Divergence
 
-![SMT Double Div](https://infinityalgoacademy.net/wp-content/uploads/2026/02/smt-double-div.png)
+<div class="product-header-icon" markdown>
+:material-chart-bell-curve-cumulative:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

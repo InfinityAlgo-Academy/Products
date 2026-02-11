@@ -1,13 +1,19 @@
----
-search:
-  lang: ar
----
-
 # Goldbot One Mt4
 
 <div class="product-header-icon" markdown>
 :material-robot-industrial:{ .product-icon-large }
 </div>
+
+---
+
+---
+search:
+  lang: ar
+---
+
+
+
+
 
 ---
 

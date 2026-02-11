@@ -135,13 +135,6 @@ markdown_extensions:
 
 # Extra
 extra:
-  alternate:
-    - name: English
-      link: ./
-      lang: en
-    - name: العربية
-      link: ./ar/
-      lang: ar
   social:
     - icon: fontawesome/solid/globe
       link: https://infinityalgoacademy.net

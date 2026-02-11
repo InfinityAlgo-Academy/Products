@@ -1,13 +1,19 @@
----
-search:
-  lang: ar
----
-
 # All In One Course
 
 <div class="product-header-icon" markdown>
 :material-school:{ .product-icon-large }
 </div>
+
+---
+
+---
+search:
+  lang: ar
+---
+
+
+
+
 
 ---
 

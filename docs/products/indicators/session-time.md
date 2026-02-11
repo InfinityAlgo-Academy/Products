@@ -1,6 +1,10 @@
 # Session Time - Market Hours Indicator
 
-![Session Time](https://infinityalgoacademy.net/wp-content/uploads/2026/02/session-time.png)
+<div class="product-header-icon" markdown>
+:material-chart-bell-curve-cumulative:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

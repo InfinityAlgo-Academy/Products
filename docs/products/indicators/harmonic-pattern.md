@@ -1,6 +1,10 @@
 # Harmonic Pattern v5.0 - Professional Pattern Scanner
 
-![Harmonic Pattern v5.0](https://infinityalgoacademy.net/wp-content/uploads/2026/02/harmonic-pattern.png)
+<div class="product-header-icon" markdown>
+:material-chart-bell-curve-cumulative:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

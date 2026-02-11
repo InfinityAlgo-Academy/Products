@@ -1,6 +1,10 @@
 # All-in-One Course - Complete Trading & Coding Mastery
 
-![All-in-One Course](https://infinityalgoacademy.net/wp-content/uploads/2026/02/all-in-one-course.webp)
+<div class="product-header-icon" markdown>
+:material-school:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

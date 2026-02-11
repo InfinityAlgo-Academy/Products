@@ -1,13 +1,19 @@
----
-search:
-  lang: ar
----
-
 # Ai Supertrend Oscillator
 
 <div class="product-header-icon" markdown>
 :material-chart-bell-curve-cumulative:{ .product-icon-large }
 </div>
+
+---
+
+---
+search:
+  lang: ar
+---
+
+
+
+
 
 ---
 

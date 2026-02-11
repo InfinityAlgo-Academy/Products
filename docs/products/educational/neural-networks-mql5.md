@@ -1,6 +1,10 @@
 # Neural Networks for Algorithmic Trading with MQL5
 
-![Neural Networks for MQL5](https://infinityalgoacademy.net/wp-content/uploads/2026/02/Neural-Networks-for-Algorithmic-Trading-with-MQL5.png)
+<div class="product-header-icon" markdown>
+:material-school:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

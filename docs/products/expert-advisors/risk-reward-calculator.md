@@ -1,6 +1,10 @@
 # Risk Reward Calculator
 
-![Risk Reward Calculator](https://infinityalgoacademy.net/wp-content/uploads/2026/02/placeholder.png)
+<div class="product-header-icon" markdown>
+:material-robot-industrial:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

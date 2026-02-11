@@ -1,5 +1,11 @@
 # 🤖 Expert Advisors (EAs)
 
+<div class="product-header-icon" markdown>
+:material-robot-industrial:{ .product-icon-large }
+</div>
+
+---
+
 Welcome to our comprehensive collection of Expert Advisors for MetaTrader 4 and MetaTrader 5. Our EAs are professionally developed, thoroughly tested, and designed to help traders automate their trading strategies.
 
 ---

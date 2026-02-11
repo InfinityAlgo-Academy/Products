@@ -1,6 +1,10 @@
 # AW Recovery EA - Trade Rescue Tool
 
-![AW Recovery EA](https://infinityalgoacademy.net/wp-content/uploads/2026/02/aw-recovery-ea.png)
+<div class="product-header-icon" markdown>
+:material-robot-industrial:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

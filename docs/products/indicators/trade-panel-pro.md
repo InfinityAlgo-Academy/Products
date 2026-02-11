@@ -1,6 +1,10 @@
 # Trade Panel Pro - Professional Order Management
 
-![Trade Panel Pro](https://infinityalgoacademy.net/wp-content/uploads/2026/02/trade-panel-pro.png)
+<div class="product-header-icon" markdown>
+:material-chart-bell-curve-cumulative:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

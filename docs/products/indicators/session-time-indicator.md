@@ -6,6 +6,8 @@
 
 ---
 
+---
+
 ## 📋 Comprehensive Overview
 
 **Session Time Indicator** represents the pinnacle of algorithmic trading technology. Designed for professional traders and institutions, this technical indicator leverages advanced market analysis to deliver precision and reliability.

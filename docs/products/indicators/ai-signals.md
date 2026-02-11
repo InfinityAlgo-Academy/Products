@@ -1,6 +1,10 @@
 # AI Signals Remastered - Machine Learning Signals
 
-![AI Signals](https://infinityalgoacademy.net/wp-content/uploads/2026/02/ai-signals.png)
+<div class="product-header-icon" markdown>
+:material-chart-bell-curve-cumulative:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

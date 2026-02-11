@@ -1,6 +1,10 @@
 # Smart Money Concepts - Institutional PA
 
-![Smart Money Concepts](https://infinityalgoacademy.net/wp-content/uploads/2026/02/smart-money-concepts.png)
+<div class="product-header-icon" markdown>
+:material-chart-bell-curve-cumulative:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

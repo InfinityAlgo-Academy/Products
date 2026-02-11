@@ -1,6 +1,10 @@
 # Darker MT4 - Stealth Mode Trading
 
-![darker-mt4](https://infinityalgoacademy.net/wp-content/uploads/2026/02/darker-mt4.png)
+<div class="product-header-icon" markdown>
+:material-robot-industrial:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

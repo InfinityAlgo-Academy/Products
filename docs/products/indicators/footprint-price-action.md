@@ -1,6 +1,10 @@
 # Footprint Price Action - Institutional Order Flow
 
-![Footprint Price Action](https://infinityalgoacademy.net/wp-content/uploads/2026/02/footprint-price-action.png)
+<div class="product-header-icon" markdown>
+:material-chart-bell-curve-cumulative:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

@@ -1,13 +1,19 @@
----
-search:
-  lang: ar
----
-
 # Swing Failure Pattern
 
 <div class="product-header-icon" markdown>
 :material-chart-bell-curve-cumulative:{ .product-icon-large }
 </div>
+
+---
+
+---
+search:
+  lang: ar
+---
+
+
+
+
 
 ---
 

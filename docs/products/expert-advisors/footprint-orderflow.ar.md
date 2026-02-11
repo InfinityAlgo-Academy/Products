@@ -1,13 +1,19 @@
----
-search:
-  lang: ar
----
-
 # Footprint Orderflow
 
 <div class="product-header-icon" markdown>
 :material-robot-industrial:{ .product-icon-large }
 </div>
+
+---
+
+---
+search:
+  lang: ar
+---
+
+
+
+
 
 ---
 

@@ -1,6 +1,10 @@
 # Volume Spectrum - Advanced Order Flow
 
-![Volume Spectrum](https://infinityalgoacademy.net/wp-content/uploads/2026/02/volume-spectrum-grid.png)
+<div class="product-header-icon" markdown>
+:material-chart-bell-curve-cumulative:{ .product-icon-large }
+</div>
+
+---
 
 This page has moved. Please visit the updated product page:
 

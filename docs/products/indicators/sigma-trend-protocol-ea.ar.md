@@ -1,13 +1,19 @@
----
-search:
-  lang: ar
----
-
 # Sigma Trend Protocol Ea
 
 <div class="product-header-icon" markdown>
 :material-chart-bell-curve-cumulative:{ .product-icon-large }
 </div>
+
+---
+
+---
+search:
+  lang: ar
+---
+
+
+
+
 
 ---
 

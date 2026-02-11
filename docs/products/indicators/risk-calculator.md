@@ -1,6 +1,10 @@
 # Risk Calculator - Precision Position Sizing
 
-![Risk Calculator](https://infinityalgoacademy.net/wp-content/uploads/2026/02/risk-calculator.png)
+<div class="product-header-icon" markdown>
+:material-chart-bell-curve-cumulative:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

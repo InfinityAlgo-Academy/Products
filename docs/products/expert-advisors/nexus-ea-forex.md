@@ -6,6 +6,8 @@
 
 ---
 
+---
+
 ## 📋 Comprehensive Overview
 
 **Nexus Ea Forex** represents the pinnacle of algorithmic trading technology. Designed for professional traders and institutions, this expert advisor (ea) leverages advanced market analysis to deliver precision and reliability.

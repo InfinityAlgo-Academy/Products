@@ -1,6 +1,10 @@
 # Footprint OrderFlow - Complete Volume Analysis
 
-![Footprint OrderFlow](https://infinityalgoacademy.net/wp-content/uploads/2026/02/footprint-orderflow.png)
+<div class="product-header-icon" markdown>
+:material-chart-bell-curve-cumulative:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

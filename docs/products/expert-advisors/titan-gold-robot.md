@@ -1,6 +1,10 @@
 # Titan Gold Robot - The Ultimate Gold Trader
 
-![titan-gold-robot](https://infinityalgoacademy.net/wp-content/uploads/2026/02/titan-gold-robot.png)
+<div class="product-header-icon" markdown>
+:material-robot-industrial:{ .product-icon-large }
+</div>
+
+---
 
 ---
 

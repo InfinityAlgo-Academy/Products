@@ -1,13 +1,19 @@
----
-search:
-  lang: ar
----
-
 # Gold Trading Ai Ea
 
 <div class="product-header-icon" markdown>
 :material-robot-industrial:{ .product-icon-large }
 </div>
+
+---
+
+---
+search:
+  lang: ar
+---
+
+
+
+
 
 ---
 

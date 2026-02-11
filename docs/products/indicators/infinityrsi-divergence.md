@@ -1,6 +1,10 @@
 # InfinityRSI Divergence - Advanced Divergence Detection
 
-![InfinityRSI Divergence](https://infinityalgoacademy.net/wp-content/uploads/2026/01/InfinityRSI_Divergence.png)
+<div class="product-header-icon" markdown>
+:material-chart-bell-curve-cumulative:{ .product-icon-large }
+</div>
+
+---
 
 ---
 
