@@ -1,19 +1,38 @@
-/* InfinityAlgo Academy - Premium Theme CSS */
+/* InfinityAlgo Academy - Premium Theme CSS (Adaptive Dark/Light) */
 
 :root {
+    /* Common Brand Colors */
     --ia-gold: #d4af37;
-    --ia-gold-light: #f3e5ab;
-    --ia-gold-dark: #aa8c2c;
-    --ia-dark-bg: #0f1115;
-    --ia-dark-card: #181b21;
-    --ia-glass: rgba(255, 255, 255, 0.05);
-    --ia-glass-border: rgba(255, 255, 255, 0.1);
+    --ia-gold-hover: #b4941f;
+
+    /* Default (Light Mode) Variables */
+    --ia-bg-color: #f8f9fa;
+    --ia-card-bg: #ffffff;
+    --ia-text-main: #2c3e50;
+    --ia-text-muted: #5c6b7f;
+    --ia-border-color: rgba(0, 0, 0, 0.08);
+    --ia-shadow-sm: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    --ia-shadow-hover: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+    --ia-hero-gradient: radial-gradient(circle at center, rgba(212, 175, 55, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
+}
+
+[data-md-color-scheme="slate"] {
+    /* Dark Mode Variables */
+    --ia-bg-color: #0f1115;
+    --ia-card-bg: #181b21;
+    --ia-text-main: #e6e6e6;
+    --ia-text-muted: #aab2c0;
+    --ia-border-color: rgba(255, 255, 255, 0.1);
+    --ia-shadow-sm: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+    --ia-shadow-hover: 0 20px 25px -5px rgba(0, 0, 0, 0.5);
+    --ia-hero-gradient: radial-gradient(circle at center, rgba(212, 175, 55, 0.1) 0%, rgba(15, 17, 21, 0) 70%);
 }
 
 /* Base Typography */
 body {
     font-family: 'Outfit', sans-serif;
-    -webkit-font-smoothing: antialiased;
+    background-color: var(--ia-bg-color);
+    color: var(--ia-text-main);
 }
 
 code,
@@ -22,48 +41,54 @@ pre {
     font-family: 'JetBrains Mono', monospace;
 }
 
-/* Glassmorphism Cards */
+/* Glassmorphism Cards & Lists */
 .md-typeset .grid>ul>li,
 .md-typeset .grid.cards>ul>li {
-    border: 1px solid var(--ia-glass-border);
-    background: var(--ia-dark-card);
+    border: 1px solid var(--ia-border-color);
+    background: var(--ia-card-bg);
     border-radius: 12px;
     transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    box-shadow: var(--ia-shadow-sm);
 }
 
-[data-md-color-scheme="slate"] .md-typeset .grid>ul>li:hover,
-[data-md-color-scheme="slate"] .md-typeset .grid.cards>ul>li:hover {
+.md-typeset .grid>ul>li:hover,
+.md-typeset .grid.cards>ul>li:hover {
     border-color: var(--ia-gold);
-    background: linear-gradient(145deg, #1e2229, #181b21);
     transform: translateY(-5px);
-    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5), 0 10px 10px -5px rgba(0, 0, 0, 0.2);
+    box-shadow: var(--ia-shadow-hover);
 }
 
-/* Hero Section (Custom Animation) */
+/* Hero Section */
 .hero-container {
     text-align: center;
     padding: 4rem 0 2rem;
-    background: radial-gradient(circle at center, rgba(212, 175, 55, 0.1) 0%, rgba(15, 17, 21, 0) 70%);
+    background: var(--ia-hero-gradient);
     animation: fadeIn 1.2s ease-out;
 }
 
 .hero-title {
-    font-weight: 700;
-    font-size: 3rem;
+    font-weight: 800;
+    font-size: 3.5rem;
+    background: linear-gradient(to right, var(--ia-gold), #b8860b);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    /* Fallback */
+    margin-bottom: 0.5rem;
+}
+
+[data-md-color-scheme="slate"] .hero-title {
     background: linear-gradient(to right, #ffffff, #d4af37, #ffffff);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
     background-size: 200% auto;
     animation: shine 5s linear infinite;
-    letter-spacing: -0.02em;
-    margin-bottom: 1rem;
 }
 
 .hero-subtitle {
     font-size: 1.25rem;
-    color: var(--md-default-fg-color--light);
+    color: var(--ia-text-muted);
     max-width: 600px;
     margin: 0 auto 2rem;
     line-height: 1.6;
@@ -92,89 +117,66 @@ pre {
 .md-button {
     border-radius: 50px;
     font-weight: 600;
-    letter-spacing: 0.05em;
     text-transform: uppercase;
     transition: all 0.3s ease;
     padding: 0.6em 1.4em;
+    background-color: var(--ia-card-bg);
+    color: var(--ia-text-main);
+    border: 1px solid var(--ia-border-color);
 }
 
 .md-button--primary {
-    background: linear-gradient(135deg, var(--ia-gold-dark) 0%, var(--ia-gold) 100%) !important;
+    background: linear-gradient(135deg, var(--ia-gold) 0%, #b8860b 100%) !important;
     border: none !important;
+    color: #fff !important;
+    box-shadow: 0 4px 15px rgba(212, 175, 55, 0.4);
+}
+
+[data-md-color-scheme="slate"] .md-button--primary {
     color: #000 !important;
-    box-shadow: 0 4px 15px rgba(212, 175, 55, 0.3);
 }
 
 .md-button--primary:hover {
     transform: translateY(-2px);
-    box-shadow: 0 8px 25px rgba(212, 175, 55, 0.5);
-}
-
-/* Custom Admonitions */
-.md-typeset .admonition,
-.md-typeset details {
-    border-radius: 8px;
-    border-left-width: 4px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 8px 25px rgba(212, 175, 55, 0.6);
 }
 
 /* Navigation Tabs */
 .md-tabs {
-    background-color: var(--ia-dark-bg);
-    border-bottom: 1px solid var(--ia-glass-border);
+    background-color: var(--ia-bg-color);
+    border-bottom: 1px solid var(--ia-border-color);
 }
 
-.md-tabs__link--active,
-.md-tabs__link:hover {
-    color: var(--ia-gold);
+[data-md-color-scheme="default"] .md-tabs {
+    background-color: #ffffff;
+    /* Cleaner look for light mode header */
 }
 
 /* Header */
 .md-header {
-    background-color: rgba(15, 17, 21, 0.95);
-    backdrop-filter: blur(10px);
-    border-bottom: 1px solid var(--ia-glass-border);
+    background-color: rgba(255, 255, 255, 0.85);
+    /* Light mode glass */
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--ia-border-color);
+    color: #000;
 }
 
-/* Footer */
-.md-footer {
-    background-color: #0a0c0f;
+[data-md-color-scheme="slate"] .md-header {
+    background-color: rgba(15, 17, 21, 0.85);
+    /* Dark mode glass */
+    color: #fff;
 }
 
-/* Table styling */
+/* Tables */
 .md-typeset table:not([class]) {
     border-radius: 8px;
     overflow: hidden;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    box-shadow: var(--ia-shadow-sm);
+    background: var(--ia-card-bg);
 }
 
 .md-typeset table:not([class]) th {
     background-color: rgba(212, 175, 55, 0.1);
-    color: var(--ia-gold);
-}
-
-/* Scrollbar */
-::-webkit-scrollbar {
-    width: 8px;
-    height: 8px;
-}
-
-::-webkit-scrollbar-track {
-    background: var(--ia-dark-bg);
-}
-
-::-webkit-scrollbar-thumb {
-    background: #333;
-    border-radius: 4px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-    background: var(--ia-gold);
-}
-
-/* Responsive tweaks */
-@media screen and (max-width: 768px) {
-    .hero-title {
-        font-size: 2rem;
-    }
+    color: var(--ia-gold-hover);
+    font-weight: bold;
 }
