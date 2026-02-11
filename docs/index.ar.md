@@ -20,23 +20,23 @@ search:
       </a>
     </div>
 
-    <!-- إحصائيات واقعية وتكنولوجية (تصميم فخم) -->
+    <!-- إحصائيات مبسطة واحترافية -->
     <div class="hero-stats">
       <div class="stat-item">
         <span class="stat-number" data-target="108">0</span>
-        <span class="stat-label">حل خوارزمي</span>
+        <span class="stat-label">منتج متطور</span>
       </div>
       <div class="stat-item">
         <span class="stat-number" data-target="10">0</span>
-        <span class="stat-label">أعوام بيانات مختبرة</span>
-      </div>
-      <div class="stat-item">
-        <span class="stat-number" data-target="5200000">0</span>
-        <span class="stat-label">سطر برمجي محسن</span>
+        <span class="stat-label">سنوات خبرة</span>
       </div>
       <div class="stat-item">
         <span class="stat-number" data-target="99">0</span>
-        <span class="stat-label">٪ استقرار المنصة</span>
+        <span class="stat-label">٪ استقرار</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number" data-target="15000">0</span>
+        <span class="stat-label">مشترك</span>
       </div>
     </div>
   </div>

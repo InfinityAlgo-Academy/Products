@@ -445,3 +445,60 @@ pre {
   font-style: italic;
   color: #ccc;
 }
+
+/* --- MINIMALIST STATS REDESIGN (FINAL) --- */
+
+.hero-stats {
+  /* Reset previous styles */
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+  margin-top: 3rem !important;
+  padding-top: 1rem !important;
+  border-top: 1px solid rgba(255, 255, 255, 0.1) !important;
+  
+  /* Flex layout adjustments */
+  display: flex !important;
+  justify-content: space-evenly !important; /* Spread evenly */
+  align-items: center !important;
+  gap: 2rem;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.stat-item {
+  padding: 0 !important;
+  text-align: center;
+}
+
+/* Remove vertical dividers */
+.stat-item::after {
+  display: none !important;
+}
+
+.stat-number {
+  /* Elegant, corporate look */
+  font-family: 'Cairo', sans-serif !important;
+  font-weight: 300 !important; /* Light weight for elegance */
+  font-size: 2.5rem !important;
+  color: #fff !important; /* Pure white */
+  text-shadow: none !important;
+  margin-bottom: 0.2rem;
+  display: block;
+}
+
+.stat-label {
+  font-family: 'Cairo', sans-serif;
+  font-size: 0.85rem !important;
+  color: rgba(255, 255, 255, 0.6) !important; /* Muted text */
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  font-weight: 400;
+}
+
+/* Add subtle hover effect */
+.stat-item:hover .stat-number {
+  color: var(--ia-gold) !important;
+  transition: color 0.3s ease;
+}

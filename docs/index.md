@@ -18,23 +18,23 @@ hide:
       </a>
     </div>
 
-    <!-- Live Animated Statistics (Ultra Premium Redesign) -->
+    <!-- Corporate Minimalist Statistics -->
     <div class="hero-stats">
       <div class="stat-item">
         <span class="stat-number" data-target="108">0</span>
-        <span class="stat-label">Algorithmic Solutions</span>
+        <span class="stat-label">Products</span>
       </div>
       <div class="stat-item">
         <span class="stat-number" data-target="10">0</span>
-        <span class="stat-label">Years Data Backtested</span>
-      </div>
-      <div class="stat-item">
-        <span class="stat-number" data-target="5200000">0</span>
-        <span class="stat-label">Lines of Code</span>
+        <span class="stat-label">Years of Data</span>
       </div>
       <div class="stat-item">
         <span class="stat-number" data-target="99">0</span>
-        <span class="stat-label">% Platform Uptime</span>
+        <span class="stat-label">% Uptime</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-number" data-target="15000">0</span>
+        <span class="stat-label">Users</span>
       </div>
     </div>
   </div>
