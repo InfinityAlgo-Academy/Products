@@ -14,6 +14,8 @@ copyright: Copyright &copy; 2026 InfinityAlgo Academy. All rights reserved.
 theme:
   name: material
   language: en
+  logo: assets/logo.png
+  favicon: assets/favicon.png
   palette:
     # Dark mode (Default)
     - scheme: slate
@@ -44,6 +46,7 @@ theme:
     - navigation.top
     - navigation.indexes
     - navigation.path
+    - navigation.footer
     - toc.follow
     - toc.integrate
     - search.suggest
@@ -58,7 +61,7 @@ theme:
 # Extra CSS & JS
 extra_css:
   - stylesheets/extra.css
-  - https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;700&display=swap
+  - https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;700;800&display=swap
   - https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap
 
 extra_javascript:
@@ -125,38 +128,81 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/@InfinityAlgoAcademy
       name: YouTube
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/infinityalgo
+      name: Instagram
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/infinityalgo
+      name: Twitter
 
 # Navigation
 nav:
   - Home: index.md
   - Expert Advisors:
     - products/expert-advisors/index.md
-    - Gold Trading EAs:
+    - Gold Trading (XAUUSD):
       - Aurum AI MT4: products/expert-advisors/aurum-ai-mt4.md
       - Vortex Gold MT4: products/expert-advisors/vortex-gold-mt4.md
       - Gold Escobar EA: products/expert-advisors/gold-escobar-ea.md
       - GoldHitter v4.0: products/expert-advisors/goldhitter-v4.md
       - Orion Gold Scalper: products/expert-advisors/orion-gold-scalper.md
       - MFXT Gold AI: products/expert-advisors/mfxt-gold-ai.md
-    - Multi-Currency EAs:
+      - Titan Gold Robot: products/expert-advisors/titan-gold-robot.md
+      - GoldBot One MT4: products/expert-advisors/goldbot-one-mt4.md
+      - Quantum Queen MT5: products/expert-advisors/quantum-queen-mt5.md
+    - Multi-Currency & AI:
       - Quantum King EA: products/expert-advisors/quantum-king-ea.md
       - Market Pulse AI: products/expert-advisors/market-pulse-ai.md
       - Forex Diamond EA: products/expert-advisors/forex-diamond-ea.md
       - Nano Quantum EA: products/expert-advisors/nano-quantum-ea.md
+      - Trade Vantage v4: products/expert-advisors/trade-vantage-v4.md
+      - AI NoDiurnal EA: products/expert-advisors/ai-nodiurnal-ea.md
+      - Nexus EA Forex: products/expert-advisors/nexus-ea-forex.md
+      - AI Gen XII EA: products/expert-advisors/ai-gen-xii-ea.md
+      - Alien Matrix EA: products/expert-advisors/alien-matrix-ea.md
+      - Darker MT4: products/expert-advisors/darker-mt4.md
+      - Deep Scalper EA: products/expert-advisors/deep-scalper-ea.md
+      - Algo Samurai EA: products/expert-advisors/algo-samurai-ea.md
+    - Scalping & Utilities:
+      - Merlin Scalp: products/expert-advisors/merlin-scalp.md
+      - Flip Bot EA: products/expert-advisors/flip-bot-ea.md
+      - Pivot Killer EA: products/expert-advisors/pivot-killer-ea.md
+      - FX Trade Detector: products/expert-advisors/fx-trade-detector.md
+      - Fish N Grid: products/expert-advisors/fish-n-grid.md
+      - Black Arrow MT4: products/expert-advisors/black-arrow-mt4.md
+      - Atlas Fluxo Quant: products/expert-advisors/atlas-fluxo-quant.md
+      - Dynamic Pips EA: products/expert-advisors/dynamic-pips-ea.md
+      - Corex G EA: products/expert-advisors/corex-g-ea.md
     - Risk Management:
       - FTMO Protector Pro: products/expert-advisors/ftmo-protector-pro.md
       - Drawdown Protector: products/expert-advisors/drawdown-protector.md
       - AW Recovery EA: products/expert-advisors/aw-recovery-ea.md
+      - Easy Trade Panel: products/expert-advisors/easy-trade-panel.md
+      - Expert Trade Assistant: products/expert-advisors/expert-trade-assistant.md
+      - Advanced Hedge EA: products/expert-advisors/advanced-hedge-ea.md
   - Indicators:
     - products/indicators/index.md
-    - MetaTrader:
+    - MetaTrader (MT4/MT5):
       - InfinityRSI Divergence: products/indicators/infinityrsi-divergence.md
       - Harmonic Pattern v5.0: products/indicators/harmonic-pattern.md
       - Trend Hunter: products/indicators/trend-hunter.md
+      - Danny Model Forecast: products/indicators/danny-model-forecast.md
+      - Lucky Reversal: products/indicators/lucky-reversal.md
+      - Trade Panel Pro: products/indicators/trade-panel-pro.md
+      - Risk Calculator: products/indicators/risk-calculator.md
+      - Session Time: products/indicators/session-time.md
     - TradingView:
       - Smart Money Concepts: products/indicators/smart-money-concepts.md
       - MM Algo Premium: products/indicators/mm-algo-premium.md
       - Volume Spectrum Grid: products/indicators/volume-spectrum-grid.md
+      - AI Signals Remastered: products/indicators/ai-signals.md
+      - LuxAlgo Concepts: products/indicators/luxalgo-concepts.md
+      - HonoAlgo: products/indicators/honoalgo.md
+    - NinjaTrader 8:
+      - Footprint Price Action: products/indicators/footprint-price-action.md
+      - SMT Double Div: products/indicators/smt-double-div.md
+      - Footprint OrderFlow: products/indicators/footprint-orderflow.md
+      - Fast Scalping AI: products/indicators/fast-scalping-ai.md
   - Educational:
     - products/educational/index.md
     - Books:
